@@ -5,8 +5,26 @@
   }
 }
 
+.back-green {
+  background-color: $green;
+  color: #fff;
+  border-radius: 17px;
+  width: 250px;
+  text-align: center;
+  font-size: 18px;
+}
+
 .footer {
   margin: 0 10% 30px;
+  &_address {
+    display: flex;
+  }
+  &_logo {
+    width: 120px;
+    img {
+      width: 100%;
+    }
+  }
   &_inner {
     display: flex;
   }

@@ -330,6 +330,10 @@ input[type="checkbox"]:disabled + span::before {
 	box-sizing: border-box;
 }
 
+body {
+	margin: 0;
+}
+
 a {
 	display: inline-block;
 	text-decoration: none;
@@ -444,8 +448,29 @@ header {
 	font-size: 12px;
 }
 
+.back-green {
+	background-color: #8FC08F;
+	border-radius: 17px;
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	width: 250px;
+}
+
 .footer {
 	margin: 0 10% 30px;
+}
+
+.footer_address {
+	display: flex;
+}
+
+.footer_logo {
+	width: 120px;
+}
+
+.footer_logo img {
+	width: 100%;
 }
 
 .footer_inner {
@@ -477,7 +502,71 @@ header {
 
 main {
 	color: #555555;
+}
+
+.btn {
+	background-color: #fff;
+	border-radius: 25px;
+	box-shadow: 0 5px 0 #E0D9C1;
+	cursor: pointer;
+	height: 50px;
+	line-height: 50px;
+	width: 300px;
+}
+
+.download {
+	padding: 65px 0;
+}
+
+.inner {
 	margin: 100px 20%;
+}
+
+.flex {
+	display: flex;
+}
+
+.between {
+	justify-content: space-between;
+}
+
+.bg-brown {
+	background-color: #AA9C69;
+}
+
+.white {
+	color: #fff;
+}
+
+.center {
+	text-align: center;
+}
+
+.w-250 {
+	width: 250px;
+}
+
+.wt-500 {
+	font-weight: 500;
+}
+
+.p-14 {
+	font-size: 14px;
+}
+
+.dot {
+	position: relative;
+}
+
+.dot::after {
+	background-color: #8FC08F;
+	border-radius: 50%;
+	content: "";
+	height: 10px;
+	left: -17px;
+	position: absolute;
+	top: 45%;
+	width: 10px;
 }
 
 .brown {
@@ -492,5 +581,13 @@ main {
 .info {
 	font-size: 16px;
 	font-weight: 400;
+}
+
+@media screen and (max-width: 1300px) {
+
+.inner {
+	margin: 100px 5%;
+}
+
 }
 
