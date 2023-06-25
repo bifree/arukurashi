@@ -2,14 +2,6 @@
   box-sizing: border-box;
 }
 
-body{
-  font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3","游ゴシック体", "YuGothic", "游ゴシック", "Yu Gothic","メイリオ", "Meiryo", "verdana", sans-serif;
-  color:#333;
-  font-size:16px;
-  line-height:2;
-  min-width:1140px;
-}
-
 a{
   text-decoration:none;
   display:inline-block;
@@ -55,10 +47,6 @@ img{
   padding-bottom:20px;
   margin-bottom:50px;
   position:relative;
-}
-
-.sec-title,.pc-menu,.sp-menu{
-  font-family:"ヒラギノ明朝 ProN W3","Hiragino Mincho ProN","游明朝","YuMincho","HG明朝E","ＭＳ Ｐ明朝","ＭＳ 明朝", 'Noto Serif JP', serif;
 }
 
 .sec-title:before {

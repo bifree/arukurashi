@@ -1,0 +1,33 @@
+.address {
+  font-size: 13px;
+  &_small {
+    font-size: 12px;
+  }
+}
+
+.footer {
+  margin: 0 10% 30px;
+  &_inner {
+    display: flex;
+  }
+  &_name {
+    font-size: 14px;
+  }
+  &_menu {
+    ul {
+      display: flex;
+      width: 400px;
+      justify-content: space-between;
+      li {
+        a {
+          color: $brown;
+          font-size: 13px;
+        }
+      }
+    }
+  }
+}
+
+.copy_right {
+  font-size: 12px;
+}
