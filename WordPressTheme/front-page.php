@@ -31,25 +31,33 @@
 </div>
 
 <div class="download bg-brown">
-  <div class="">
-    <h2 class="center"><span class="white">お問い合わせ／ 資料ダウンロード</span></h2>
-    0561-76-7171
-    受付時間 00：00〜00：00（月〜金）
+  <div class="download_inner">
     <div class="flex">
-      <div class="btn center brown">お問い合わせ</div>
-      <div class="btn center brown">資料ダウンロード</div>
+      <div class="download-ttl">
+        <h2 class=""><span class="white">お問い合わせ／<br> 資料ダウンロード</span></h2>
+      </div>
+      <div>
+        <div class="flex border-wht">
+          <p class="phone white wt-500">0561-76-7171</p>
+          <p class="white border-side">受付時間<br> 00：00〜00：00（月〜金）</p>
+        </div>
+        <div class="flex">
+          <div class="btn center brown">お問い合わせ</div>
+          <div class="btn center brown">資料ダウンロード</div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
-<div class="inner">
+<div class="inner cooperate">
   <p class="brown wt-500 center">協力者を募集しています</p>
 
-  <div class="flex between">
+  <div class="flex between border-btm">
     <div class="w-250">
       <p class="back-green">ボランティア</p>
       <p class="p-14 dot">就労移行／生活訓練 補助</p>
-      <p class="p-14">職業上の専門的知識・スキルを活かした活動（プロボノ）</p>
+      <p class="p-14 dot">職業上の専門的知識・スキルを活かした活動（プロボノ）</p>
     </div>
     <div class="w-250">
       <p class="back-green">小売販売 支援</p>
@@ -58,7 +66,7 @@
     <div class="w-250">
       <p class="back-green">経済支援</p>
       <p class="p-14 dot">寄付（運営資金・住居提供 等）</p>
-      <p class="p-14">正会員／賛助会員 登録</p>
+      <p class="p-14 dot">正会員／賛助会員 登録</p>
     </div>
   </div>
 

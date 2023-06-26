@@ -458,7 +458,7 @@ header {
 }
 
 .footer {
-	margin: 0 10% 30px;
+	background-color: #FDFBF2;
 }
 
 .footer_address {
@@ -474,6 +474,11 @@ header {
 }
 
 .footer_inner {
+	margin: 0 10%;
+	padding-bottom: 30px;
+}
+
+.footer_inner_items {
 	display: flex;
 }
 
@@ -494,6 +499,7 @@ header {
 
 .copy_right {
 	font-size: 12px;
+	margin-bottom: 0;
 }
 
 header {
@@ -516,6 +522,14 @@ main {
 
 .download {
 	padding: 65px 0;
+}
+
+.download_inner {
+	display: block;
+	margin: 0 auto;
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
 }
 
 .inner {
@@ -581,6 +595,40 @@ main {
 .info {
 	font-size: 16px;
 	font-weight: 400;
+}
+
+.border-btm {
+	border-bottom: 1px solid #AA9C69;
+}
+
+.cooperate {
+	margin: 0 auto 130px !important;
+	width: 910px;
+}
+
+.border-wht {
+	border: 1px solid #fff;
+	border-radius: 10px;
+	margin-bottom: 45px;
+	padding-left: 35px;
+	padding-right: 35px;
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+}
+
+.border-side {
+	border-left: 1px solid #fff;
+	margin-left: 30px;
+	padding-left: 30px;
+}
+
+.phone {
+	border-radius: 10px;
+	font-size: 48px;
+	line-height: 70px;
+	margin-bottom: 0;
+	margin-top: 0;
 }
 
 @media screen and (max-width: 1300px) {
