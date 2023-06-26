@@ -2,6 +2,14 @@ main {
   color: $text-color;
 }
 
+.top_intro {
+  width: 350px;
+  margin-top: 60px;
+  &_gr {
+    font-size: 22px;
+  }
+}
+
 .btn {
   background-color: #fff;
   box-shadow: 0 5px 0 #E0D9C1;

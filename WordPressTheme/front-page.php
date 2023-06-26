@@ -1,16 +1,16 @@
 <?php get_header(); ?>
 <main>
   <div class="inner">
-    <h1><span class="brown">明日を楽しみに 生きる暮らし。</span></h1>
+    <h1><span class="brown">明日を楽しみに<br>生きる暮らし。</span></h1>
 
-    私たちは<span class="brown">「明日を楽しみに眠りにつく人を増やしたい」</span>と願い、 メンタル疾患の方向けの障害福祉サービスや途上国の貧困緩和に取り組んでいます。
+    <p class="top_intro">私たちは<span class="brown">「明日を楽しみに眠りにつく人を増やしたい」</span>と願い、 メンタル疾患の方向けの障害福祉サービスや途上国の貧困緩和に取り組んでいます。</p>
 
-    <p><span class="green">あなたのペースに 寄り添う</span></p>
+    <p><span class="green top_intro_gr">あなたのペースに<br>寄り添う</span></p>
     <p class="info">メンタル疾患の方専門の事業所です。皆が向上中・練習中なので、失敗が許される場です。コミュニケーションスキル、不調時の対策などが身につけられます。一緒に成長してゆきましょう！</p>
-    <p><span class="green">得意なことを 活かしていく</span></p>
+    <p><span class="green top_intro_gr">得意なことを<br>活かしていく</span></p>
 
     <p class="info">病気、障害でつまづいても、人間が変わったわけではありません。あなたの得意なことを見つけ、生かし方を工夫します。失った自信を取り戻して楽しい人生を送りましょう。</p>
-    <p><span class="green">メンバーは 精神科・心療内科に 通う方ばかり</span></p>
+    <p><span class="green top_intro_gr">メンバーは<br>精神科・心療内科に<br>通う方ばかり</span></p>
 
     <p class="info">似た苦しみを体験してきた人たちと共に、自分をいたわる生き方を探せます。OB同士のネットワークもあり、ご本人が望む限り長い付き合いを続けることもできます。</p>
 

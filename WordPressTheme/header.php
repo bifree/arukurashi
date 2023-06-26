@@ -17,6 +17,24 @@
   </style>
 <body>
   <header>
-    
+    <div class="header">
+      <div class="header_inner flex">
+        <div class="header_logo">
+          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="">
+        </div>
+        <div class="header_address brown">
+          <p>尾張瀬戸駅の就労支援・自立訓練事務所</p>
+          <p>0561-76-7171</p>
+        </div>
+        <div class="header_menu">
+          <ul class="flex">
+            <li>サービス・事業</li>
+            <li>ご利用の流れ</li>
+            <li>団体について</li>
+            <li>コラム</li>
+          </ul>
+        </div>
+      </div>
+    </div>
   </header>
     

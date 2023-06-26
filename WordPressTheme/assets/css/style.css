@@ -515,6 +515,15 @@ main {
 	color: #555555;
 }
 
+.top_intro {
+	margin-top: 60px;
+	width: 350px;
+}
+
+.top_intro_gr {
+	font-size: 22px;
+}
+
 .btn {
 	background-color: #fff;
 	border-radius: 25px;
