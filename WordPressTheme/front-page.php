@@ -1,34 +1,52 @@
 <?php get_header(); ?>
 <main>
-<div class="inner">
-  <h1><span class="brown">明日を楽しみに 生きる暮らし。</span></h1>
+  <div class="inner">
+    <h1><span class="brown">明日を楽しみに 生きる暮らし。</span></h1>
 
-  私たちは<span class="brown">「明日を楽しみに眠りにつく人を増やしたい」</span>と願い、 メンタル疾患の方向けの障害福祉サービスや途上国の貧困緩和に取り組んでいます。
+    私たちは<span class="brown">「明日を楽しみに眠りにつく人を増やしたい」</span>と願い、 メンタル疾患の方向けの障害福祉サービスや途上国の貧困緩和に取り組んでいます。
 
-  <p><span class="green">あなたのペースに 寄り添う</span></p>
-  <p class="info">メンタル疾患の方専門の事業所です。皆が向上中・練習中なので、失敗が許される場です。コミュニケーションスキル、不調時の対策などが身につけられます。一緒に成長してゆきましょう！</p>
-  <p><span class="green">得意なことを 活かしていく</span></p>
+    <p><span class="green">あなたのペースに 寄り添う</span></p>
+    <p class="info">メンタル疾患の方専門の事業所です。皆が向上中・練習中なので、失敗が許される場です。コミュニケーションスキル、不調時の対策などが身につけられます。一緒に成長してゆきましょう！</p>
+    <p><span class="green">得意なことを 活かしていく</span></p>
 
-  <p class="info">病気、障害でつまづいても、人間が変わったわけではありません。あなたの得意なことを見つけ、生かし方を工夫します。失った自信を取り戻して楽しい人生を送りましょう。</p>
-  <p><span class="green">メンバーは 精神科・心療内科に 通う方ばかり</span></p>
+    <p class="info">病気、障害でつまづいても、人間が変わったわけではありません。あなたの得意なことを見つけ、生かし方を工夫します。失った自信を取り戻して楽しい人生を送りましょう。</p>
+    <p><span class="green">メンバーは 精神科・心療内科に 通う方ばかり</span></p>
 
-  <p class="info">似た苦しみを体験してきた人たちと共に、自分をいたわる生き方を探せます。OB同士のネットワークもあり、ご本人が望む限り長い付き合いを続けることもできます。</p>
+    <p class="info">似た苦しみを体験してきた人たちと共に、自分をいたわる生き方を探せます。OB同士のネットワークもあり、ご本人が望む限り長い付き合いを続けることもできます。</p>
 
-  <h2><span class="brown">事業一覧</span></h2>
+    <h2 class="brown title-dots center works_title">事業一覧</h2>
 
-  通所
-  事務所に通って受けるサービスです。 〈就労移行／生活訓練／就労定着〉
-  私費サービス
-  訓練を受けない方のサービスです。 〈カウンセリング／土曜日講座〉
-  グループホーム
-  発展途上国支援
-  発展途上国の生産者と提携し、製品の検品・加工・棚卸やそれらをギフトセットとして販売もしています。
+    <div class="works_list">
+      <div class="works_item">
+        <div class="works_photo"></div>
+        通所
+        <p class="center">事務所に通って受けるサービスです。<br>〈就労移行／生活訓練／就労定着〉</p>
+      </div>
+      <div class="works_item">
+        <div class="works_photo"></div>私費サービス
+        <p class="center">訓練を受けない方のサービスです。<br>〈カウンセリング／土曜日講座〉</p>
+      </div>
+      <div class="works_item">
+        <div class="works_photo"></div>
+        <p class="center">グループホーム</p>
+      </div>
+      <div class="works_item">
+        <div class="works_photo"></div>
+        <p class="center">発展途上国の生産者と提携し、製品の検品・加工・棚卸<br>やそれらをギフトセットとして販売もしています。</p>
+      </div>
+    </div>
+  </div>
+  <div class="news news_bg">
+    <div class="news_inner">
+      <h2 class="brown center">お知らせ</h2>
+      2022.01.01お知らせホームページリニューアルのお知らせ
+    </div>
+  </div>
 
-  <h2><span class="brown">お知らせ</span></h2>
-  2022.01.01お知らせホームページリニューアルのお知らせ
-
-  <h2><span class="brown">日々の活動</span></h2>
-</div>
+  <div class="activity">
+    <h2 class="brown title-dots center">日々の活動</h2>
+    <p class="center">follow us</p>
+  </div>
 
 <div class="download bg-brown">
   <div class="download_inner">
